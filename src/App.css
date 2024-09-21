@@ -1,0 +1,84 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+*.Link {
+    text-decoration: none;
+    color: inherit;
+}
+.container {
+    width: 1200px;
+    max-width: 100%;
+}
+
+div {
+    box-sizing: border-box;
+}
+.maincontainer{
+    display: grid;
+    margin: 10px;
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.inputfield{
+    margin: 10px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputfield input{
+    border-radius: 5px;
+    border: 1.5px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
+.inputfield label{
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.btn{
+    padding: 10px 20px;
+    font-weight: 600;
+    max-width: 100px;
+    background-color: #8D75A5;
+    border-radius: 10px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+.delete-btn{
+    padding: 10px 20px;
+    font-weight: 600;
+    max-width: 100px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    
+}
+.edit-btn{
+    padding: 10px 20px;
+    font-weight: 600;
+    max-width: 100px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    
+}
+.greenbtn{
+    
+    background-color: lightseagreen;
+}
