@@ -16084,7 +16084,7 @@
                 WDS_SOCKET_PORT: void 0,
                 FAST_REFRESH: !0,
                 REACT_APP_BACKEND_API_BASE_URL:
-                  "https://rrdecoration-backend.onrender.com",
+                  "https://rrdecoration-backend.vercel.app/",
                 REACT_APP_COMPANY_ADDRESS: "mihir",
                 REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                 REACT_APP_COMPANY_NAME: "mihir",
@@ -16098,7 +16098,7 @@
               WDS_SOCKET_PORT: void 0,
               FAST_REFRESH: !0,
               REACT_APP_BACKEND_API_BASE_URL:
-                "https://rrdecoration-backend.onrender.com",
+                "https://rrdecoration-backend.vercel.app/",
               REACT_APP_COMPANY_ADDRESS: "mihir",
               REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
               REACT_APP_COMPANY_NAME: "mihir",
@@ -16112,7 +16112,7 @@
                 WDS_SOCKET_PORT: void 0,
                 FAST_REFRESH: !0,
                 REACT_APP_BACKEND_API_BASE_URL:
-                  "https://rrdecoration-backend.onrender.com",
+                  "https://rrdecoration-backend.vercel.app/",
                 REACT_APP_COMPANY_ADDRESS: "mihir",
                 REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                 REACT_APP_COMPANY_NAME: "mihir",
@@ -16133,7 +16133,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_BACKEND_API_BASE_URL:
-                      "https://rrdecoration-backend.onrender.com",
+                      "https://rrdecoration-backend.vercel.app/",
                     REACT_APP_COMPANY_ADDRESS: "mihir",
                     REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                     REACT_APP_COMPANY_NAME: "mihir",
@@ -16148,7 +16148,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_BACKEND_API_BASE_URL:
-                      "https://rrdecoration-backend.onrender.com",
+                      "https://rrdecoration-backend.vercel.app/",
                     REACT_APP_COMPANY_ADDRESS: "mihir",
                     REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                     REACT_APP_COMPANY_NAME: "mihir",
@@ -16163,7 +16163,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_BACKEND_API_BASE_URL:
-                      "https://rrdecoration-backend.onrender.com",
+                      "https://rrdecoration-backend.vercel.app/",
                     REACT_APP_COMPANY_ADDRESS: "mihir",
                     REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                     REACT_APP_COMPANY_NAME: "mihir",
@@ -16178,7 +16178,7 @@
                         WDS_SOCKET_PORT: void 0,
                         FAST_REFRESH: !0,
                         REACT_APP_BACKEND_API_BASE_URL:
-                          "https://rrdecoration-backend.onrender.com",
+                          "https://rrdecoration-backend.vercel.app/",
                         REACT_APP_COMPANY_ADDRESS: "mihir",
                         REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                         REACT_APP_COMPANY_NAME: "mihir",
@@ -16192,7 +16192,7 @@
                       WDS_SOCKET_PORT: void 0,
                       FAST_REFRESH: !0,
                       REACT_APP_BACKEND_API_BASE_URL:
-                        "https://rrdecoration-backend.onrender.com",
+                        "https://rrdecoration-backend.vercel.app/",
                       REACT_APP_COMPANY_ADDRESS: "mihir",
                       REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                       REACT_APP_COMPANY_NAME: "mihir",
@@ -16207,7 +16207,7 @@
                         WDS_SOCKET_PORT: void 0,
                         FAST_REFRESH: !0,
                         REACT_APP_BACKEND_API_BASE_URL:
-                          "https://rrdecoration-backend.onrender.com",
+                          "https://rrdecoration-backend.vercel.app/",
                         REACT_APP_COMPANY_ADDRESS: "mihir",
                         REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                         REACT_APP_COMPANY_NAME: "mihir",
@@ -16222,7 +16222,7 @@
                         WDS_SOCKET_PORT: void 0,
                         FAST_REFRESH: !0,
                         REACT_APP_BACKEND_API_BASE_URL:
-                          "https://rrdecoration-backend.onrender.com",
+                          "https://rrdecoration-backend.vercel.app/",
                         REACT_APP_COMPANY_ADDRESS: "mihir",
                         REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                         REACT_APP_COMPANY_NAME: "mihir",
@@ -16237,7 +16237,7 @@
                         WDS_SOCKET_PORT: void 0,
                         FAST_REFRESH: !0,
                         REACT_APP_BACKEND_API_BASE_URL:
-                          "https://rrdecoration-backend.onrender.com",
+                          "https://rrdecoration-backend.vercel.app/",
                         REACT_APP_COMPANY_ADDRESS: "mihir",
                         REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                         REACT_APP_COMPANY_NAME: "mihir",
@@ -16251,7 +16251,7 @@
                       WDS_SOCKET_PORT: void 0,
                       FAST_REFRESH: !0,
                       REACT_APP_BACKEND_API_BASE_URL:
-                        "https://rrdecoration-backend.onrender.com",
+                        "https://rrdecoration-backend.vercel.app/",
                       REACT_APP_COMPANY_ADDRESS: "mihir",
                       REACT_APP_COMPANY_ADDRESS_COUNTRY: "mihir",
                       REACT_APP_COMPANY_NAME: "mihir",
@@ -17366,7 +17366,7 @@
       const Re = Oe;
       var Me = n(854),
         Te = n.n(Me);
-      const De = "https://rrdecoration-backend.onrender.com";
+      const De = "https://rrdecoration-backend.vercel.app/";
       const Ne = Te().create({ baseURL: De }),
         Ie = Te().create({ baseURL: De });
       Ne.interceptors.request.use((e) => {
@@ -40616,7 +40616,7 @@ label
             o = async () => {
               try {
                 const { data: e } = await Te().get(
-                  "https://rrdecoration-backend.onrender.com/api/ticket/"
+                  "https://rrdecoration-backend.vercel.app//api/ticket/"
                 );
                 console.log("h", e), n(e);
               } catch (e) {
@@ -40674,7 +40674,7 @@ label
                                               console.log(e), console.log(r);
                                               try {
                                                 await Te().delete(
-                                                  `https://rrdecoration-backend.onrender.com/api/ticket/${e}`
+                                                  `https://rrdecoration-backend.vercel.app//api/ticket/${e}`
                                                 ),
                                                   o();
                                               } catch (t) {}
@@ -41166,7 +41166,7 @@ label
               (async () => {
                 try {
                   const { data: e } = await Te().get(
-                    "https://rrdecoration-backend.onrender.com/api/request/"
+                    "https://rrdecoration-backend.vercel.app//api/request/"
                   );
                   console.log("h", e.savedProduct), n(e.savedProduct);
                 } catch (e) {

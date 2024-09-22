@@ -51,7 +51,7 @@ const Librery = () => {
   const getAllLibrary = async () => {
     try {
       const { data } = await axios.get(
-        "https://rrdecoration-backend.onrender.com/api/ticket/"
+        "https://rrdecoration-backend.vercel.app//api/ticket/"
       );
       console.log("h", data);
       setLibrary(data);
@@ -81,7 +81,7 @@ const Librery = () => {
     // e.prieventDefault()
     try {
       await axios.delete(
-        `https://rrdecoration-backend.onrender.com/api/ticket/${e}`
+        `https://rrdecoration-backend.vercel.app//api/ticket/${e}`
       );
 
       getAllLibrary();
