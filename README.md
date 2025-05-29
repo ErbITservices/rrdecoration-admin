@@ -58,10 +58,10 @@ rrdecoration-admin/
 
 1. **Clone the repository:**
 
-   ```bash
+```bash
    git clone https://github.com/ErbITservices/rrdecoration-admin.git
    cd rrdecoration-admin
-
+```
 
 2. **Install dependencies:**
 
